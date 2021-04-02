@@ -1,0 +1,9 @@
+h1 {
+  margin: 15px;
+  color: darkblue;
+  height: 37px;
+}
+.editor-container {
+  height: calc(100% - 60px);
+  margin: 15px;
+}
